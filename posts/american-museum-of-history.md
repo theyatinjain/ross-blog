@@ -1,7 +1,7 @@
 ---
 title: "American Museum of History"
 date: "2022-10-16"
-image: dinosaur-museum.jpg
+image: american-museum-of-history.jpg
 excerpt: In Theodore Roosevelt Park, across the street from Central Park, the museum complex comprises 26 interconnected buildings housing 45 permanent exhibition halls, in addition to a planetarium and a library.
 isFeatured: true
 ---
@@ -22,4 +22,4 @@ The new Library was designed by the firm Roche-Dinkeloo in 1992. The space is 55
 
 ## American Musuem of History
 
-![A LOOK AT MUSEUM](dinosaur-museum.jpg)
+![A LOOK AT MUSEUM](american-museum-of-history.jpg)

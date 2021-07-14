@@ -1,7 +1,7 @@
 ---
 title: "The Jurassic Park"
 date: "2021-05-16"
-image: dinosaur-parks.jpg
+image: the-jurassic-park.jpg
 excerpt: Jurassic Park, later also referred to as Jurassic World, is an American science fiction media franchise centered on a disastrous attempt to create a theme park of cloned dinosaurs.
 isFeatured: false
 ---
@@ -27,4 +27,4 @@ Some movies under this franchise are:
 
 ## American Musuem of History
 
-![A Look at Velociraptor](dinosaur-parks.jpg)
+![A Look at Velociraptor](the-jurassic-park.jpg)
